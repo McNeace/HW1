@@ -1,0 +1,43 @@
+.wrapper {
+  width: 800px;
+  margin: 0 auto;
+}
+
+body {
+  background-color: darkgray;
+  text-align: center;
+}
+
+header {
+  padding: 30px;
+  margin: 10px;
+}
+
+.lgclass {
+  background-color: #ddd;
+  padding: 30px;
+  margin: 10px;
+}
+
+.bgclass{
+  padding: 0px;
+  margin: 0px;
+}
+
+section {
+  float: left;
+  width: 50%;
+}
+
+article {
+  background-color: darkgray;
+}
+
+aside {
+  float: right;
+  width: 40%;
+}
+
+footer {
+  clear: both;
+}
